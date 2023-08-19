@@ -1,0 +1,50 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .dark-mode {
+    background-color: rgb(111, 104, 104);
+    color: white;
+  }
+        
+  .ldark-mode{
+    background-color: #999999;
+    color: whitesmoke;
+  }
+ 
+
+  
+  #cj{
+    background-color: #999999;
+    color: whitesmoke;
+  }
+  #xx{
+    position: sticky;
+    bottom: 0px;
+  }
+#top{
+    margin: 0 10px;
+}
+
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-weight: 600;
+    font-size: large;
+    margin: 15px 0;
+    background-color: beige;
+    align-items: center;
+    cursor: pointer;
+    color: black;
+
+}
+
+.cont a{
+    color:black;
+
+}
+.cont div{
+    color:black;
+
+}
